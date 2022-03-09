@@ -1,0 +1,24 @@
+div#Div1 {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img#Carta1 {
+    width: 60%;
+    margin: 40px;
+    max-width: 200px;
+    max-height: 351px;
+}
+img#Carta2 {
+    width: 60%;
+    margin: 40px;
+    max-width: 200px;
+    max-height: 351px;
+}
+img#Carta3 {
+    width: 60%;
+    margin: 40px;
+    max-width: 200px;
+    max-height: 351px;
+}
